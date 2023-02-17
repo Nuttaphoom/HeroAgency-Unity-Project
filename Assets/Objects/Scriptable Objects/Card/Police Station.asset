@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1118bfa19c1954c46b93861dfd8f1f37, type: 3}
+  m_Name: Police Station
+  m_EditorClassIdentifier: 
+  cardName: Police Station
+  cardCost: 30
+  cardDescription: '-  If Enemy has HP fewer than 30% of its MAX HP. Eliminate it.
+
+
+    -
+    Player won''t receive any reputation point from combat.'
+  FullCardSprite: {fileID: 3528537879957264771, guid: 618dd752651a5104d869b525809cdd5f,
+    type: 3}
+  BannerCardSprite: {fileID: -6888532086946839109, guid: 618dd752651a5104d869b525809cdd5f,
+    type: 3}

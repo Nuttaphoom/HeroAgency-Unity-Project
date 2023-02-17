@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1118bfa19c1954c46b93861dfd8f1f37, type: 3}
+  m_Name: Workshop
+  m_EditorClassIdentifier: 
+  cardName: Workshop
+  cardCost: 40
+  cardDescription: '- Spawn a Iron Fists For Enemy.
+
+
+    - If There is a Iron Fist
+    in the battle, replace it with The Greate Iron Fist.'
+  FullCardSprite: {fileID: -4098433144559411543, guid: 64923fb2b68b09543b8c95f4183b25ba,
+    type: 3}
+  BannerCardSprite: {fileID: -2703606629722924827, guid: 64923fb2b68b09543b8c95f4183b25ba,
+    type: 3}

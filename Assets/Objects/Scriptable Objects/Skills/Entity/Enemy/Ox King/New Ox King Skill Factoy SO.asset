@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26f28858bcdfe884a8b0ce772894d9c9, type: 3}
+  m_Name: New Ox King Skill Factoy SO
+  m_EditorClassIdentifier: 
+  Name: Ox King
+  Detail: Stun Attacked Enemy.
+  Sprite: {fileID: 21300000, guid: 478430d42bcd8f643853bb129784f137, type: 3}
+  SourceName: Ox King
+  visualEffectSO: {fileID: 11400000, guid: 8c2ee4997e14a7f4f88e4ee803e5ab6e, type: 2}
+  SkillStackable: 0

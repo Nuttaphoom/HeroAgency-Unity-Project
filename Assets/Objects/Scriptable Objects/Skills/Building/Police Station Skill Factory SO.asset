@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858c9ad4e459ea14f8bac506b4155e7f, type: 3}
+  m_Name: Police Station Skill Factory SO
+  m_EditorClassIdentifier: 
+  Name: Police Station
+  Detail: Eliminate enemies who have HP less than 30% of their MAXHP.
+  Sprite: {fileID: 108827227340689911, guid: ddcea0a259a97b14aaf9d1221aa501bd, type: 3}
+  SourceName: Police Station
+  visualEffectSO: {fileID: 11400000, guid: 4e22fc481920f1146a4972a5abbcb69a, type: 2}
+  SkillStackable: 0
+  Stenght: 30

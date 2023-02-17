@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1118bfa19c1954c46b93861dfd8f1f37, type: 3}
+  m_Name: Hospital
+  m_EditorClassIdentifier: 
+  cardName: Hospital
+  cardCost: 20
+  cardDescription: '- Heal Every Heros By 10% of Their Max HP When Player Walk Pass
+    Area Effect Tiles.
+
+
+    - Pay 10 H Coin For 1 Hero'
+  FullCardSprite: {fileID: 5864853075745528663, guid: 40cd7966bcab7c4408bfff80b555e4e2,
+    type: 3}
+  BannerCardSprite: {fileID: -2538523559732877397, guid: 40cd7966bcab7c4408bfff80b555e4e2,
+    type: 3}

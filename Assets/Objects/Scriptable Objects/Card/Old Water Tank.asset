@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1118bfa19c1954c46b93861dfd8f1f37, type: 3}
+  m_Name: Old Water Tank
+  m_EditorClassIdentifier: 
+  cardName: Old Water Tank
+  cardCost: 20
+  cardDescription: '- Randomly heal a single character every 5 seconds.
+
+
+    - If
+    player has fire character, healing from water tank do damage instead.'
+  FullCardSprite: {fileID: 21300000, guid: 5af2a051174f60a4fb0e94eba32d20c3, type: 3}
+  BannerCardSprite: {fileID: 21300000, guid: 5af2a051174f60a4fb0e94eba32d20c3, type: 3}

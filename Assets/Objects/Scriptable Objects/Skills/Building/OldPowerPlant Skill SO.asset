@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f077ebaf5bc384d4b8dbab68303ac96e, type: 3}
+  m_Name: OldPowerPlant Skill SO
+  m_EditorClassIdentifier: 
+  Name: 'Electronic Leakage '
+  Detail: '- Deal Damage to a Random Character.'
+  Sprite: {fileID: -8105560202311982947, guid: 513142bed457ef64bb995bc7fa442778, type: 3}
+  SourceName: Old Power Plant
+  visualEffectSO: {fileID: 11400000, guid: 74e0869b72742c54988219cbb70794ff, type: 2}
+  SkillStackable: 0

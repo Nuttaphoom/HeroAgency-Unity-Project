@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f955a14805ba47144b3ad987f6eef02b, type: 3}
+  m_Name: Heal Potion Factory SO
+  m_EditorClassIdentifier: 
+  Name:
+  - Emergency Heal Potion Level 1
+  - Emergency Heal Potion Level 2
+  - Emergency Heal Potion Level 3
+  - Emergency Heal Potion Level 4
+  - Emergency Heal Potion Level 5
+  Detail:
+  - Your hero will use health potion when enter combat if they have low HP to heal
+    5% of its MAXHP.
+  - Your hero will use health potion when enter combat if they have low HP to heal
+    10% of its MAXHP.
+  - Your hero will use health potion when enter combat if they have low HP to heal
+    15% of its MAXHP.
+  - Your hero will use health potion when enter combat if they have low HP to heal
+    15% of its MAXHP.
+  - Your hero will use health potion when enter combat if they have low HP to heal
+    15% of its MAXHP.
+  Sprite:
+  - {fileID: 21300000, guid: ea7afc7b972ddb241bef5d706a0127ae, type: 3}
+  - {fileID: 21300000, guid: ea7afc7b972ddb241bef5d706a0127ae, type: 3}
+  - {fileID: 21300000, guid: ea7afc7b972ddb241bef5d706a0127ae, type: 3}
+  - {fileID: 21300000, guid: ea7afc7b972ddb241bef5d706a0127ae, type: 3}
+  - {fileID: 21300000, guid: ea7afc7b972ddb241bef5d706a0127ae, type: 3}
+  SourceName:
+  - Emergency Heal Potion
+  - Emergency Heal Potion
+  - Emergency Heal Potion
+  - Emergency Heal Potion
+  - Emergency Heal Potion
+  AvailableLevel: 0101010101
+  visualEffectSO:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  HealPercent:
+  - 5
+  - 10
+  - 15
+  - 15
+  - 15
+  HealthMin:
+  - 20
+  - 20
+  - 20
+  - 20
+  - 20

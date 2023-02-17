@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd5a21033fadd2498562ce8cdd85009, type: 3}
+  m_Name: Tense SkillSO
+  m_EditorClassIdentifier: 
+  Name: Tense - Combat Mode
+  Detail: Slightly increase ATK and SPEED of this character.
+  Sprite: {fileID: 21300000, guid: 92b022f5b0911ec4eb7c6cccd6a36462, type: 3}
+  SourceName: Combat Mode
+  visualEffectSO: {fileID: 0}
+  SkillStackable: 0
+  PercentIncreasedAttack: 10
+  PercentIncreasedMAXHP: 0
+  PercentIncreasedSPEED: 10
+  PercentIncreasedSHIELD: 0
+  PercentIncreasedACCU: 0
+  Duration: 9999999
